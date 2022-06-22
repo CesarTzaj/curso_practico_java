@@ -38,6 +38,7 @@ jQuery('document').ready(function($){
             cuadrado.removeClass('show-cuadrado');
         }
     });
+    
 
 });
 
